@@ -20,15 +20,6 @@
 
 ---
 
-## 📁 Project Structure
-
-hostwise-site/
-├── index.html # Main HTML file
-├── css/
-│ └── style.css # Custom stylesheet
-
----
-
 ## 🛠️ Getting Started
 
 To get started with **HostWise**, follow these steps:
