@@ -1,5 +1,8 @@
 # 🌐 HostWise – Landing Page for Web Hosting Services
 
+## View Live Server 
+https://abinayagoudjandhyala.github.io/hostwise-site/
+
 **HostWise** is a sleek, modern, and fully responsive landing page template perfect for web hosting companies, cloud service providers, or tech startups. Built using semantic HTML5, clean CSS3, and Font Awesome icons for a polished UI.
 
 ![image](https://github.com/user-attachments/assets/60cc51d3-1016-4c85-8cc6-9b41a0bbb8e1)
